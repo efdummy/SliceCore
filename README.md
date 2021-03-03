@@ -1,5 +1,4 @@
 # SliceCore
-SliceCore cut or stick files' slice
 
 SLICE cut your big files in chunks or rebuild them from the chunks.
 
