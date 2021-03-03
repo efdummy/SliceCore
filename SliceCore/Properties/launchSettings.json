@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SliceCore": {
+      "commandName": "Project",
+      "commandLineArgs": "out.txt.chunk.1"
+    }
+  }
+}
