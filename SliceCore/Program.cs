@@ -56,7 +56,7 @@ namespace SliceCore
 		{
 			Console.WriteLine(SEPARATOR);
 			Console.WriteLine("");
-			Console.WriteLine("If you like slice and have any question go to http://slice.codeplex.com");
+			Console.WriteLine("If you like slice and have any question go to https://github.com/efdummy/SliceCore/");
 			Console.WriteLine(SEPARATOR);
 		}
 		private static void Usage()
